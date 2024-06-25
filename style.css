@@ -1,0 +1,97 @@
+
+
+.navbar {
+    background-color: black;
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 8px 11px;
+}
+
+.navbar li a {
+    padding: 5px 8px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li a:hover {
+    color: beige;
+}
+
+.navbar input {
+    border: 2px;
+    border-radius: 10px;
+    padding: 2px 3px;
+    width: 200px;
+}
+
+.navbar button {
+    padding: 3px;
+}
+
+.wrapper {
+    position: absolute;
+    background-color: lightblue;
+    width: 23%;
+    height: 53%;
+    text-decoration: none;
+}
+
+
+.wrapper li {
+    list-style: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.h1 {
+    padding-left: 25%;
+}
+
+table {
+    height: 235px;
+    width: 800px;
+    margin-left: 25%;
+    border: 1px;
+}
+
+footer {
+    background-color: rgb(6, 179, 247);
+    color: rgb(8, 4, 4);
+    margin: 1%;
+    padding: 1px;
+    height: 180px;
+    width: 1333px;
+    padding-left: 1%;
+    list-style: none;
+
+}
+
+footer .a {
+    float: left;
+    margin: 10%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    font-family: sans-serif;
+}
+th{
+    background-color: green;
+    color: white;
+}
+.links{
+    margin:10px ;
+}
+.combo{
+    color: white;
+    font-weight: bold;
+}
